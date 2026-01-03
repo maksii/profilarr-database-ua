@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Hoffer Subs",
+    "pattern":  "(?i)\\bHoffer Subs\\b",
+    "description":  "Matches \"Hoffer Subs\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Subs"
+             ],
+    "tests":  [
+
+              ]
+}

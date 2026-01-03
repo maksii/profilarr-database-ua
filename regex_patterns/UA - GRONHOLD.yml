@@ -1,0 +1,13 @@
+﻿{
+    "name":  "GRONHOLD",
+    "pattern":  "(?i)\\bGRONHOLD\\b",
+    "description":  "Matches \"GRONHOLD\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

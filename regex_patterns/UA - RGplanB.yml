@@ -1,0 +1,13 @@
+﻿{
+    "name":  "RGplanB",
+    "pattern":  "(?i)\\bRGplanB\\b",
+    "description":  "Matches \"RGplanB\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

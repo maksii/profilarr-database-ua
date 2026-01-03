@@ -1,0 +1,13 @@
+﻿{
+    "name":  "BB-8",
+    "pattern":  "(?i)\\bBB-8\\b",
+    "description":  "Matches \"BB-8\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

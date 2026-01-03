@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Gwean_\u0026_Maslinka",
+    "pattern":  "(?i)\\bGwean_\u0026_Maslinka\\b",
+    "description":  "Matches \"Gwean_\u0026_Maslinka\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

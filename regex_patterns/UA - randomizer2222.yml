@@ -1,0 +1,13 @@
+﻿{
+    "name":  "randomizer2222",
+    "pattern":  "(?i)\\brandomizer2222\\b",
+    "description":  "Matches \"randomizer2222\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

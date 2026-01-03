@@ -1,0 +1,13 @@
+﻿{
+    "name":  "IronBee",
+    "pattern":  "(?i)\\bIronBee\\b",
+    "description":  "Matches \"IronBee\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

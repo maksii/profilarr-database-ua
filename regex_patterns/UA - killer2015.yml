@@ -1,0 +1,13 @@
+﻿{
+    "name":  "killer2015",
+    "pattern":  "(?i)\\bkiller2015\\b",
+    "description":  "Matches \"killer2015\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

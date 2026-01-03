@@ -1,0 +1,13 @@
+﻿{
+    "name":  "BMK12",
+    "pattern":  "(?i)\\bBMK12\\b",
+    "description":  "Matches \"BMK12\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

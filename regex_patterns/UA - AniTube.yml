@@ -1,0 +1,13 @@
+﻿{
+    "name":  "AniTube",
+    "pattern":  "(?i)\\bAniTube\\b",
+    "description":  "Matches \"AniTube\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

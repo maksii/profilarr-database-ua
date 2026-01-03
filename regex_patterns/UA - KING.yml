@@ -1,0 +1,13 @@
+﻿{
+    "name":  "KING",
+    "pattern":  "(?i)\\bKING\\b",
+    "description":  "Matches \"KING\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

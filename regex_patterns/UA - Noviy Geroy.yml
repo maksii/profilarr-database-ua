@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Noviy Geroy",
+    "pattern":  "(?i)\\bNoviy Geroy\\b",
+    "description":  "Matches \"Noviy Geroy\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

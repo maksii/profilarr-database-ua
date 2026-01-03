@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Kinoword",
+    "pattern":  "(?i)\\bKinoword\\b",
+    "description":  "Matches \"Kinoword\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

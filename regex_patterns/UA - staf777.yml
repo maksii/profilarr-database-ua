@@ -1,0 +1,13 @@
+﻿{
+    "name":  "staf777",
+    "pattern":  "(?i)\\bstaf777\\b",
+    "description":  "Matches \"staf777\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "ToUtHD",
+    "pattern":  "(?i)\\bToUtHD\\b",
+    "description":  "Matches \"ToUtHD\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "bills_spirit",
+    "pattern":  "(?i)\\bbills_spirit\\b",
+    "description":  "Matches \"bills_spirit\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

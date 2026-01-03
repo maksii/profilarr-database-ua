@@ -1,0 +1,13 @@
+﻿{
+    "name":  "C-3PO",
+    "pattern":  "(?i)\\bC-3PO\\b",
+    "description":  "Matches \"C-3PO\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

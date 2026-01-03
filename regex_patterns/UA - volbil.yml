@@ -1,0 +1,13 @@
+﻿{
+    "name":  "volbil",
+    "pattern":  "(?i)\\bvolbil\\b",
+    "description":  "Matches \"volbil\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

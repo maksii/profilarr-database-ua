@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Ліхтарник",
+    "pattern":  "(?i)\\bЛіхтарник\\b",
+    "description":  "Matches \"Ліхтарник\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

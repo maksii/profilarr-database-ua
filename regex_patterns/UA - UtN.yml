@@ -1,0 +1,13 @@
+﻿{
+    "name":  "UtN",
+    "pattern":  "(?i)\\bUtN\\b",
+    "description":  "Matches \"UtN\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

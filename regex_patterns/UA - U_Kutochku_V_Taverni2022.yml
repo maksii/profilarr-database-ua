@@ -1,0 +1,13 @@
+﻿{
+    "name":  "U_Kutochku_V_Taverni2022",
+    "pattern":  "(?i)\\bU_Kutochku_V_Taverni2022\\b",
+    "description":  "Matches \"U_Kutochku_V_Taverni2022\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

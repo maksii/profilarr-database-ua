@@ -1,0 +1,13 @@
+﻿{
+    "name":  "MakRa",
+    "pattern":  "(?i)\\bMakRa\\b",
+    "description":  "Matches \"MakRa\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 1"
+             ],
+    "tests":  [
+
+              ]
+}

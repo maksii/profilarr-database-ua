@@ -1,0 +1,13 @@
+﻿{
+    "name":  "sayonaraKawai",
+    "pattern":  "(?i)\\bsayonaraKawai\\b",
+    "description":  "Matches \"sayonaraKawai\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

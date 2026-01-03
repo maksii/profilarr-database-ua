@@ -1,0 +1,13 @@
+﻿{
+    "name":  "rokiroki",
+    "pattern":  "(?i)\\brokiroki\\b",
+    "description":  "Matches \"rokiroki\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

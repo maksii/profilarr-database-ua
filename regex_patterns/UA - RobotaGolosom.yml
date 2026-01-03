@@ -1,0 +1,13 @@
+﻿{
+    "name":  "RobotaGolosom",
+    "pattern":  "(?i)\\bRobotaGolosom\\b",
+    "description":  "Matches \"RobotaGolosom\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

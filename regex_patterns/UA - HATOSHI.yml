@@ -1,0 +1,13 @@
+﻿{
+    "name":  "HATOSHI",
+    "pattern":  "(?i)\\bHATOSHI\\b",
+    "description":  "Matches \"HATOSHI\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

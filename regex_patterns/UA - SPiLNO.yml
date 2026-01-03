@@ -1,0 +1,8 @@
+name: SPiLNO
+pattern: (?i)\bSPiLNO\b
+description: Matches "SPiLNO" using regex pattern.
+tags:
+- Release Group
+- Ukrainian
+- UA Tier 2
+tests: []

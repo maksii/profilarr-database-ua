@@ -1,0 +1,13 @@
+﻿{
+    "name":  "VERЛань Group",
+    "pattern":  "(?i)\\bVERЛань Group\\b",
+    "description":  "Matches \"VERЛань Group\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

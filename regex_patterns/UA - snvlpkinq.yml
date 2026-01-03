@@ -1,0 +1,13 @@
+﻿{
+    "name":  "snvlpkinq",
+    "pattern":  "(?i)\\bsnvlpkinq\\b",
+    "description":  "Matches \"snvlpkinq\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

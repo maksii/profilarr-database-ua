@@ -1,0 +1,13 @@
+﻿{
+    "name":  "parabola76",
+    "pattern":  "(?i)\\bparabola76\\b",
+    "description":  "Matches \"parabola76\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

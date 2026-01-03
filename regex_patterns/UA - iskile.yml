@@ -1,0 +1,13 @@
+﻿{
+    "name":  "iskile",
+    "pattern":  "(?i)\\biskile\\b",
+    "description":  "Matches \"iskile\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

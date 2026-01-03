@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Masanchick",
+    "pattern":  "(?i)\\bMasanchick\\b",
+    "description":  "Matches \"Masanchick\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

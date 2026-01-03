@@ -1,0 +1,13 @@
+﻿{
+    "name":  "danuta",
+    "pattern":  "(?i)\\bdanuta\\b",
+    "description":  "Matches \"danuta\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

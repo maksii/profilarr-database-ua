@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Rudy_Scm",
+    "pattern":  "(?i)\\bRudy_Scm\\b",
+    "description":  "Matches \"Rudy_Scm\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

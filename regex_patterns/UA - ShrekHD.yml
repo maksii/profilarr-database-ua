@@ -1,0 +1,13 @@
+﻿{
+    "name":  "ShrekHD",
+    "pattern":  "(?i)\\bShrekHD\\b",
+    "description":  "Matches \"ShrekHD\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Mikola_sat",
+    "pattern":  "(?i)\\bMikola_sat\\b",
+    "description":  "Matches \"Mikola_sat\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

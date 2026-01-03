@@ -1,0 +1,7 @@
+name: UA - [Ukrainian] tag
+pattern: (?i)\[(?!\s*Subs)[^]]*\b(Ukrainian)\b[^]]*\]
+description: ''
+tags:
+- Language
+- Ukrainian
+tests: []

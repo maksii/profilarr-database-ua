@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Smu",
+    "pattern":  "(?i)\\bSmu\\b",
+    "description":  "Matches \"Smu\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Kioto_anime",
+    "pattern":  "(?i)\\bKioto_anime\\b",
+    "description":  "Matches \"Kioto_anime\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

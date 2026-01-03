@@ -1,0 +1,13 @@
+﻿{
+    "name":  "vitexdp",
+    "pattern":  "(?i)\\bvitexdp\\b",
+    "description":  "Matches \"vitexdp\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

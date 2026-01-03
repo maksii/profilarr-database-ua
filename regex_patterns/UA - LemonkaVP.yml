@@ -1,0 +1,13 @@
+﻿{
+    "name":  "LemonkaVP",
+    "pattern":  "(?i)\\bLemonkaVP\\b",
+    "description":  "Matches \"LemonkaVP\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

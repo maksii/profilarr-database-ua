@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Regnant",
+    "pattern":  "(?i)\\bRegnant\\b",
+    "description":  "Matches \"Regnant\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

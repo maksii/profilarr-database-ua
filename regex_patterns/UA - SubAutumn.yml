@@ -1,0 +1,13 @@
+﻿{
+    "name":  "SubAutumn",
+    "pattern":  "(?i)\\bSubAutumn\\b",
+    "description":  "Matches \"SubAutumn\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Subs"
+             ],
+    "tests":  [
+
+              ]
+}

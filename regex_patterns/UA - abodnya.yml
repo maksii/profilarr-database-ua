@@ -1,0 +1,13 @@
+﻿{
+    "name":  "abodnya",
+    "pattern":  "(?i)\\babodnya\\b",
+    "description":  "Matches \"abodnya\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

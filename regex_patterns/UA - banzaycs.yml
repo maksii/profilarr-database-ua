@@ -1,0 +1,13 @@
+﻿{
+    "name":  "banzaycs",
+    "pattern":  "(?i)\\bbanzaycs\\b",
+    "description":  "Matches \"banzaycs\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

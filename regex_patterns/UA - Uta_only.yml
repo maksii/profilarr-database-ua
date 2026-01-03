@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Uta_only",
+    "pattern":  "(?i)\\bUta_only\\b",
+    "description":  "Matches \"Uta_only\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "AnimeCake",
+    "pattern":  "(?i)\\bAnimeCake\\b",
+    "description":  "Matches \"AnimeCake\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

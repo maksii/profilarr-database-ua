@@ -1,0 +1,8 @@
+name: UA - UKR DVO SUB
+pattern: (?i)(?<=UKR\s+\w{3}\s+)SUB\b
+description: ''
+tags:
+- Subtitles
+- Language
+- Ukrainian
+tests: []

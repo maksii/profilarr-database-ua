@@ -1,0 +1,13 @@
+﻿{
+    "name":  "TeronUA",
+    "pattern":  "(?i)\\bTeronUA\\b",
+    "description":  "Matches \"TeronUA\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

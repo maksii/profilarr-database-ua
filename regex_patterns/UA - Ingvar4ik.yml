@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Ingvar4ik",
+    "pattern":  "(?i)\\bIngvar4ik\\b",
+    "description":  "Matches \"Ingvar4ik\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

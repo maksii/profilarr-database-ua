@@ -1,0 +1,13 @@
+﻿{
+    "name":  "alexstepanof",
+    "pattern":  "(?i)\\balexstepanof\\b",
+    "description":  "Matches \"alexstepanof\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

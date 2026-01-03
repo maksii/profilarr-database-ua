@@ -1,0 +1,13 @@
+﻿{
+    "name":  "seasky",
+    "pattern":  "(?i)\\bseasky\\b",
+    "description":  "Matches \"seasky\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

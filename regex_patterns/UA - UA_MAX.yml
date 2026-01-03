@@ -1,0 +1,13 @@
+﻿{
+    "name":  "UA_MAX",
+    "pattern":  "(?i)\\bUA_MAX\\b",
+    "description":  "Matches \"UA_MAX\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

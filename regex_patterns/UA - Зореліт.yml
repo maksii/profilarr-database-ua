@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Зореліт",
+    "pattern":  "(?i)\\bЗореліт\\b",
+    "description":  "Matches \"Зореліт\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

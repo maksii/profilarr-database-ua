@@ -1,0 +1,13 @@
+﻿{
+    "name":  "pingwin4eg_",
+    "pattern":  "(?i)\\bpingwin4eg_\\b",
+    "description":  "Matches \"pingwin4eg_\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

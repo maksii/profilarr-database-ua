@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Snuryus",
+    "pattern":  "(?i)\\bSnuryus\\b",
+    "description":  "Matches \"Snuryus\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

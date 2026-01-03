@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Anonymous",
+    "pattern":  "(?i)\\bAnonymous\\b",
+    "description":  "Matches \"Anonymous\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

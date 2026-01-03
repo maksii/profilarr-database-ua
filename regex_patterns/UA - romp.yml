@@ -1,0 +1,13 @@
+﻿{
+    "name":  "romp",
+    "pattern":  "(?i)\\bromp\\b",
+    "description":  "Matches \"romp\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

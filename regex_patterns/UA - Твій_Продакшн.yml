@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Твій_Продакшн",
+    "pattern":  "(?i)\\bТвій_Продакшн\\b",
+    "description":  "Matches \"Твій_Продакшн\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

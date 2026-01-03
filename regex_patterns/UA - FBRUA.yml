@@ -1,0 +1,13 @@
+﻿{
+    "name":  "FBRUA",
+    "pattern":  "(?i)\\bFBRUA\\b",
+    "description":  "Matches \"FBRUA\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

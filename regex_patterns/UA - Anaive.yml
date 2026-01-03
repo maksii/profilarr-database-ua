@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Anaive",
+    "pattern":  "(?i)\\bAnaive\\b",
+    "description":  "Matches \"Anaive\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

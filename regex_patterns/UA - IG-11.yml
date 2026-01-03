@@ -1,0 +1,13 @@
+﻿{
+    "name":  "IG-11",
+    "pattern":  "(?i)\\bIG-11\\b",
+    "description":  "Matches \"IG-11\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

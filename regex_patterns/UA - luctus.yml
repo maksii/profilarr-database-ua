@@ -1,0 +1,13 @@
+﻿{
+    "name":  "luctus",
+    "pattern":  "(?i)\\bluctus\\b",
+    "description":  "Matches \"luctus\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

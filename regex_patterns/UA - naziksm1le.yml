@@ -1,0 +1,13 @@
+﻿{
+    "name":  "naziksm1le",
+    "pattern":  "(?i)\\bnaziksm1le\\b",
+    "description":  "Matches \"naziksm1le\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "GroBro",
+    "pattern":  "(?i)\\bGroBro\\b",
+    "description":  "Matches \"GroBro\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

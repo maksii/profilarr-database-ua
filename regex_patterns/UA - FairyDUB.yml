@@ -1,0 +1,13 @@
+﻿{
+    "name":  "FairyDUB",
+    "pattern":  "(?i)\\bFairyDUB\\b",
+    "description":  "Matches \"FairyDUB\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

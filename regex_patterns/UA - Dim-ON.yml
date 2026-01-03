@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Dim-ON",
+    "pattern":  "(?i)\\bDim-ON\\b",
+    "description":  "Matches \"Dim-ON\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

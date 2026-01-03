@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Apofys",
+    "pattern":  "(?i)\\bApofys\\b",
+    "description":  "Matches \"Apofys\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

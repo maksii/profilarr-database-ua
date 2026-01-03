@@ -1,0 +1,13 @@
+﻿{
+    "name":  "нудьга",
+    "pattern":  "(?i)\\bнудьга\\b",
+    "description":  "Matches \"нудьга\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

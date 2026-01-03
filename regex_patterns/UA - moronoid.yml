@@ -1,0 +1,13 @@
+﻿{
+    "name":  "moronoid",
+    "pattern":  "(?i)\\bmoronoid\\b",
+    "description":  "Matches \"moronoid\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Rise",
+    "pattern":  "(?i)\\bRise\\b",
+    "description":  "Matches \"Rise\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

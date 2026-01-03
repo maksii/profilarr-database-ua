@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Mant1kor",
+    "pattern":  "(?i)\\bMant1kor\\b",
+    "description":  "Matches \"Mant1kor\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

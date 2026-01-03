@@ -1,0 +1,13 @@
+﻿{
+    "name":  "karvai",
+    "pattern":  "(?i)\\bkarvai\\b",
+    "description":  "Matches \"karvai\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

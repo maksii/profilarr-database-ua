@@ -1,0 +1,13 @@
+﻿{
+    "name":  "MelodicVoiceStudio",
+    "pattern":  "(?i)\\bMelodicVoiceStudio\\b",
+    "description":  "Matches \"MelodicVoiceStudio\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

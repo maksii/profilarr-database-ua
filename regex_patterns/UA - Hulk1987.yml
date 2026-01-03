@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Hulk1987",
+    "pattern":  "(?i)\\bHulk1987\\b",
+    "description":  "Matches \"Hulk1987\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

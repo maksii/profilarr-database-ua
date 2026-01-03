@@ -1,0 +1,13 @@
+﻿{
+    "name":  "yussuf",
+    "pattern":  "(?i)\\byussuf\\b",
+    "description":  "Matches \"yussuf\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

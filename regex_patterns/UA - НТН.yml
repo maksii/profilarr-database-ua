@@ -1,0 +1,13 @@
+﻿{
+    "name":  "НТН",
+    "pattern":  "(?i)\\bНТН\\b",
+    "description":  "Matches \"НТН\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

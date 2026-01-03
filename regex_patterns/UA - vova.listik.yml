@@ -1,0 +1,13 @@
+﻿{
+    "name":  "vova.listik",
+    "pattern":  "(?i)\\bvova\\.listik\\b",
+    "description":  "Matches \"vova.listik\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

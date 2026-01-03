@@ -1,0 +1,13 @@
+﻿{
+    "name":  "sergiyko.5",
+    "pattern":  "(?i)\\bsergiyko\\.5\\b",
+    "description":  "Matches \"sergiyko.5\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "wrongfunction",
+    "pattern":  "(?i)\\bwrongfunction\\b",
+    "description":  "Matches \"wrongfunction\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

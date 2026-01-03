@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Anyaram",
+    "pattern":  "(?i)\\bAnyaram\\b",
+    "description":  "Matches \"Anyaram\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

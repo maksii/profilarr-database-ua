@@ -1,0 +1,13 @@
+﻿{
+    "name":  "logickiller",
+    "pattern":  "(?i)\\blogickiller\\b",
+    "description":  "Matches \"logickiller\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

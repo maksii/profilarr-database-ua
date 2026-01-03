@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Wys0kI978",
+    "pattern":  "(?i)\\bWys0kI978\\b",
+    "description":  "Matches \"Wys0kI978\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

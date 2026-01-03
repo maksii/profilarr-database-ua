@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Tema18",
+    "pattern":  "(?i)\\bTema18\\b",
+    "description":  "Matches \"Tema18\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

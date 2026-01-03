@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Patlati Продакшнз",
+    "pattern":  "(?i)\\bPatlati Продакшнз\\b",
+    "description":  "Matches \"Patlati Продакшнз\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

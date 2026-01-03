@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Altron320",
+    "pattern":  "(?i)\\bAltron320\\b",
+    "description":  "Matches \"Altron320\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 1"
+             ],
+    "tests":  [
+
+              ]
+}

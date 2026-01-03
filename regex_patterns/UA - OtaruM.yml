@@ -1,0 +1,13 @@
+﻿{
+    "name":  "OtaruM",
+    "pattern":  "(?i)\\bOtaruM\\b",
+    "description":  "Matches \"OtaruM\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

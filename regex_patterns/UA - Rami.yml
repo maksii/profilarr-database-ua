@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Rami",
+    "pattern":  "(?i)\\bRami\\b",
+    "description":  "Matches \"Rami\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "hoffsteiner",
+    "pattern":  "(?i)\\bhoffsteiner\\b",
+    "description":  "Matches \"hoffsteiner\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

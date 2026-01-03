@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Kitsune_",
+    "pattern":  "(?i)\\bKitsune_\\b",
+    "description":  "Matches \"Kitsune_\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

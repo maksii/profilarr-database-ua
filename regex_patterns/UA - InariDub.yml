@@ -1,0 +1,13 @@
+﻿{
+    "name":  "InariDub",
+    "pattern":  "(?i)\\bInariDub\\b",
+    "description":  "Matches \"InariDub\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,7 @@
+name: UA - UKR tag
+pattern: (?i)^(?:(?!\|).)*?(?:\d+x)?(UKR)(?![\s/_-]*(?:SUB\b))
+description: '1'
+tags:
+- Ukrainian
+- Language
+tests: []

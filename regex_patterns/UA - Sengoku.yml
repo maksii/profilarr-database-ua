@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Sengoku",
+    "pattern":  "(?i)\\bSengoku\\b",
+    "description":  "Matches \"Sengoku\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

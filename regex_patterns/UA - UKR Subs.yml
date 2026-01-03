@@ -1,0 +1,13 @@
+﻿{
+    "name":  "UKR Subs",
+    "pattern":  "(?i)\\bUKR Subs\\b",
+    "description":  "Matches \"UKR Subs\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Subs"
+             ],
+    "tests":  [
+
+              ]
+}

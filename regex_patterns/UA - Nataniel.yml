@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Nataniel",
+    "pattern":  "(?i)\\bNataniel\\b",
+    "description":  "Matches \"Nataniel\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "V1K",
+    "pattern":  "(?i)\\bV1K\\b",
+    "description":  "Matches \"V1K\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

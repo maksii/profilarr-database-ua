@@ -1,0 +1,13 @@
+﻿{
+    "name":  "BenjiSG",
+    "pattern":  "(?i)\\bBenjiSG\\b",
+    "description":  "Matches \"BenjiSG\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

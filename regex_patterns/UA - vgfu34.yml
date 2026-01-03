@@ -1,0 +1,13 @@
+﻿{
+    "name":  "vgfu34",
+    "pattern":  "(?i)\\bvgfu34\\b",
+    "description":  "Matches \"vgfu34\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

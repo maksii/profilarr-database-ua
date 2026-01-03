@@ -1,0 +1,13 @@
+﻿{
+    "name":  "PlagueFencer",
+    "pattern":  "(?i)\\bPlagueFencer\\b",
+    "description":  "Matches \"PlagueFencer\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

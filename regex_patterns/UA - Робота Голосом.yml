@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Робота Голосом",
+    "pattern":  "(?i)\\bРобота Голосом\\b",
+    "description":  "Matches \"Робота Голосом\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

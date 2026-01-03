@@ -1,0 +1,13 @@
+name: UA - Ukrainian Language Spec
+description: ''
+tags:
+- Ukrainian
+- Language
+conditions:
+- exceptLanguage: false
+  language: ukrainian
+  name: Ukrainian Language
+  negate: false
+  required: true
+  type: language
+tests: []

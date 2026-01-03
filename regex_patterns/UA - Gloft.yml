@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Gloft",
+    "pattern":  "(?i)\\bGloft\\b",
+    "description":  "Matches \"Gloft\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

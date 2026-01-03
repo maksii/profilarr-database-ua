@@ -1,0 +1,13 @@
+﻿{
+    "name":  "CloverDUB",
+    "pattern":  "(?i)\\bCloverDUB\\b",
+    "description":  "Matches \"CloverDUB\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

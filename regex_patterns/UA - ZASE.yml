@@ -1,0 +1,13 @@
+﻿{
+    "name":  "ZASE",
+    "pattern":  "(?i)\\bZASE\\b",
+    "description":  "Matches \"ZASE\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

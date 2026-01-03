@@ -1,0 +1,13 @@
+﻿{
+    "name":  "SandUA",
+    "pattern":  "(?i)\\bSandUA\\b",
+    "description":  "Matches \"SandUA\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

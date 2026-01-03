@@ -1,0 +1,13 @@
+﻿{
+    "name":  "CakesTwix",
+    "pattern":  "(?i)\\bCakesTwix\\b",
+    "description":  "Matches \"CakesTwix\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

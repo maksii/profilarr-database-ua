@@ -1,0 +1,13 @@
+﻿{
+    "name":  "mxwlkndy",
+    "pattern":  "(?i)\\bmxwlkndy\\b",
+    "description":  "Matches \"mxwlkndy\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,292 @@
+name: UA - Ukrainian Language Subs
+description: ''
+tags:
+- Ukrainian
+- Language
+- Subtitles
+conditions:
+- name: UKR DVO SUB
+  negate: false
+  pattern: UA - UKR DVO SUB
+  required: false
+  type: release_title
+- name: Subs xUkr
+  negate: false
+  pattern: UA - Subs xUkr
+  required: false
+  type: release_title
+- name: SubUkr
+  negate: false
+  pattern: UA - SubUkr
+  required: false
+  type: release_title
+- name: SUB UKR
+  negate: false
+  pattern: UA - SUB UKR
+  required: false
+  type: release_title
+- name: Subs Ukrainian
+  negate: false
+  pattern: UA - Subs Ukrainian
+  required: false
+  type: release_title
+- name: UKR SUB
+  negate: false
+  pattern: UA - UKR SUB
+  required: false
+  type: release_title
+tests:
+- conditionResults:
+  - matches: false
+    name: UKR DVO SUB
+    negate: false
+    pattern: UA - UKR DVO SUB
+    required: false
+    type: release_title
+  - matches: false
+    name: Subs xUkr
+    negate: false
+    pattern: UA - Subs xUkr
+    required: false
+    type: release_title
+  - matches: false
+    name: SubUkr
+    negate: false
+    pattern: UA - SubUkr
+    required: false
+    type: release_title
+  - matches: true
+    name: SUB UKR
+    negate: false
+    pattern: UA - SUB UKR
+    required: false
+    type: release_title
+  - matches: false
+    name: Subs Ukrainian
+    negate: false
+    pattern: UA - Subs Ukrainian
+    required: false
+    type: release_title
+  - matches: false
+    name: UKR SUB
+    negate: false
+    pattern: UA - UKR SUB
+    required: false
+    type: release_title
+  expected: true
+  id: 1
+  input: Under Ninja (2023) WEBDLRip 1080p H.264 Jap | sub Ukr
+  lastRun: '2026-01-03T10:32:03.892630'
+  passes: true
+- conditionResults:
+  - matches: false
+    name: UKR DVO SUB
+    negate: false
+    pattern: UA - UKR DVO SUB
+    required: false
+    type: release_title
+  - matches: false
+    name: Subs xUkr
+    negate: false
+    pattern: UA - Subs xUkr
+    required: false
+    type: release_title
+  - matches: false
+    name: SubUkr
+    negate: false
+    pattern: UA - SubUkr
+    required: false
+    type: release_title
+  - matches: true
+    name: SUB UKR
+    negate: false
+    pattern: UA - SUB UKR
+    required: false
+    type: release_title
+  - matches: false
+    name: Subs Ukrainian
+    negate: false
+    pattern: UA - Subs Ukrainian
+    required: false
+    type: release_title
+  - matches: false
+    name: UKR SUB
+    negate: false
+    pattern: UA - UKR SUB
+    required: false
+    type: release_title
+  expected: true
+  id: 2
+  input: Space Cobra / Space Adventure Cobra (1982) BDRip 3xJap | sub Ukr
+  lastRun: '2026-01-03T10:32:03.892630'
+  passes: true
+- conditionResults:
+  - matches: false
+    name: UKR DVO SUB
+    negate: false
+    pattern: UA - UKR DVO SUB
+    required: false
+    type: release_title
+  - matches: false
+    name: Subs xUkr
+    negate: false
+    pattern: UA - Subs xUkr
+    required: false
+    type: release_title
+  - matches: false
+    name: SubUkr
+    negate: false
+    pattern: UA - SubUkr
+    required: false
+    type: release_title
+  - matches: false
+    name: SUB UKR
+    negate: false
+    pattern: UA - SUB UKR
+    required: false
+    type: release_title
+  - matches: false
+    name: Subs Ukrainian
+    negate: false
+    pattern: UA - Subs Ukrainian
+    required: false
+    type: release_title
+  - matches: false
+    name: UKR SUB
+    negate: false
+    pattern: UA - UKR SUB
+    required: false
+    type: release_title
+  expected: true
+  id: 3
+  input: "Spice and Wolf (1 \u0441\u0435\u0437\u043E\u043D + OVA) (2008) BDRip 720p\
+    \ JPN | UKR Subs"
+  lastRun: '2026-01-03T10:32:03.892630'
+  passes: true
+- conditionResults:
+  - matches: false
+    name: UKR DVO SUB
+    negate: false
+    pattern: UA - UKR DVO SUB
+    required: false
+    type: release_title
+  - matches: false
+    name: Subs xUkr
+    negate: false
+    pattern: UA - Subs xUkr
+    required: false
+    type: release_title
+  - matches: false
+    name: SubUkr
+    negate: false
+    pattern: UA - SubUkr
+    required: false
+    type: release_title
+  - matches: true
+    name: SUB UKR
+    negate: false
+    pattern: UA - SUB UKR
+    required: false
+    type: release_title
+  - matches: false
+    name: Subs Ukrainian
+    negate: false
+    pattern: UA - Subs Ukrainian
+    required: false
+    type: release_title
+  - matches: false
+    name: UKR SUB
+    negate: false
+    pattern: UA - UKR SUB
+    required: false
+    type: release_title
+  expected: true
+  id: 4
+  input: Trinity Seven (2014) BDRip 720p Jap | sub Ukr/Eng
+  lastRun: '2026-01-03T10:32:03.892630'
+  passes: true
+- conditionResults:
+  - matches: false
+    name: UKR DVO SUB
+    negate: false
+    pattern: UA - UKR DVO SUB
+    required: false
+    type: release_title
+  - matches: false
+    name: Subs xUkr
+    negate: false
+    pattern: UA - Subs xUkr
+    required: false
+    type: release_title
+  - matches: false
+    name: SubUkr
+    negate: false
+    pattern: UA - SubUkr
+    required: false
+    type: release_title
+  - matches: true
+    name: SUB UKR
+    negate: false
+    pattern: UA - SUB UKR
+    required: false
+    type: release_title
+  - matches: false
+    name: Subs Ukrainian
+    negate: false
+    pattern: UA - Subs Ukrainian
+    required: false
+    type: release_title
+  - matches: false
+    name: UKR SUB
+    negate: false
+    pattern: UA - UKR SUB
+    required: false
+    type: release_title
+  expected: true
+  id: 5
+  input: Tsuki ga Michibiku Isekai Douchuu (Season 1) (2021) WEB-DL 1080p Ukr/Jap
+    | Sub Ukr
+  lastRun: '2026-01-03T10:32:03.892630'
+  passes: true
+- conditionResults:
+  - matches: false
+    name: UKR DVO SUB
+    negate: false
+    pattern: UA - UKR DVO SUB
+    required: false
+    type: release_title
+  - matches: false
+    name: Subs xUkr
+    negate: false
+    pattern: UA - Subs xUkr
+    required: false
+    type: release_title
+  - matches: false
+    name: SubUkr
+    negate: false
+    pattern: UA - SubUkr
+    required: false
+    type: release_title
+  - matches: false
+    name: SUB UKR
+    negate: false
+    pattern: UA - SUB UKR
+    required: false
+    type: release_title
+  - matches: false
+    name: Subs Ukrainian
+    negate: false
+    pattern: UA - Subs Ukrainian
+    required: false
+    type: release_title
+  - matches: false
+    name: UKR SUB
+    negate: false
+    pattern: UA - UKR SUB
+    required: false
+    type: release_title
+  expected: false
+  id: 6
+  input: Tsuki ga Michibiku Isekai Douchuu (Season 1) (2021) WEB-DL 1080p Ukr/Jap
+  lastRun: '2026-01-03T10:32:03.892630'
+  passes: false

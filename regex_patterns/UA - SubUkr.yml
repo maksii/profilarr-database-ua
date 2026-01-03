@@ -1,0 +1,8 @@
+name: UA - SubUkr
+pattern: (?i)\bSub/Ukr\b
+description: ''
+tags:
+- Subtitles
+- Language
+- Ukrainian
+tests: []

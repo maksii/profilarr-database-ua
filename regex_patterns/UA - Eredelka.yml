@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Eredelka",
+    "pattern":  "(?i)\\bEredelka\\b",
+    "description":  "Matches \"Eredelka\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

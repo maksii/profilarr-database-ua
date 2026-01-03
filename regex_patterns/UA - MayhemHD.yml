@@ -1,0 +1,13 @@
+﻿{
+    "name":  "MayhemHD",
+    "pattern":  "(?i)\\bMayhemHD\\b",
+    "description":  "Matches \"MayhemHD\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

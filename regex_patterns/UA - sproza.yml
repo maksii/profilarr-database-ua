@@ -1,0 +1,13 @@
+﻿{
+    "name":  "sproza",
+    "pattern":  "(?i)\\bsproza\\b",
+    "description":  "Matches \"sproza\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

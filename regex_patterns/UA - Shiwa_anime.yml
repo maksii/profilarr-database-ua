@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Shiwa_anime",
+    "pattern":  "(?i)\\bShiwa_anime\\b",
+    "description":  "Matches \"Shiwa_anime\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Starfall_ua",
+    "pattern":  "(?i)\\bStarfall_ua\\b",
+    "description":  "Matches \"Starfall_ua\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

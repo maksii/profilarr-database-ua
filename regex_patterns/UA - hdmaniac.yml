@@ -1,0 +1,13 @@
+﻿{
+    "name":  "hdmaniac",
+    "pattern":  "(?i)\\bhdmaniac\\b",
+    "description":  "Matches \"hdmaniac\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

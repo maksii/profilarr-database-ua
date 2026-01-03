@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Lifecycle",
+    "pattern":  "(?i)\\bLifecycle\\b",
+    "description":  "Matches \"Lifecycle\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

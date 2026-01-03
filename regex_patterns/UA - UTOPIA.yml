@@ -1,0 +1,13 @@
+﻿{
+    "name":  "UTOPIA",
+    "pattern":  "(?i)\\bUTOPIA\\b",
+    "description":  "Matches \"UTOPIA\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

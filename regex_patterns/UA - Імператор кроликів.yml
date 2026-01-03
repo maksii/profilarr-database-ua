@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Імператор кроликів",
+    "pattern":  "(?i)\\bІмператор кроликів\\b",
+    "description":  "Matches \"Імператор кроликів\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

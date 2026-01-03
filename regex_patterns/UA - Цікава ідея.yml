@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Цікава ідея",
+    "pattern":  "(?i)\\bЦікава ідея\\b",
+    "description":  "Matches \"Цікава ідея\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Romario_O",
+    "pattern":  "(?i)\\bRomario_O\\b",
+    "description":  "Matches \"Romario_O\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

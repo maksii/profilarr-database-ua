@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Gedet",
+    "pattern":  "(?i)\\bGedet\\b",
+    "description":  "Matches \"Gedet\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

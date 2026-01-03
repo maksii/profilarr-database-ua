@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Gwean",
+    "pattern":  "(?i)\\bGwean\\b",
+    "description":  "Matches \"Gwean\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

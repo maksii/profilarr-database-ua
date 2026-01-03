@@ -1,0 +1,13 @@
+﻿{
+    "name":  "CKO Dubbing",
+    "pattern":  "(?i)\\bCKO Dubbing\\b",
+    "description":  "Matches \"CKO Dubbing\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

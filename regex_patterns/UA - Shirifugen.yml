@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Shirifugen",
+    "pattern":  "(?i)\\bShirifugen\\b",
+    "description":  "Matches \"Shirifugen\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

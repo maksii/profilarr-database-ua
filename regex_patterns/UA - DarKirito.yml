@@ -1,0 +1,13 @@
+﻿{
+    "name":  "DarKirito",
+    "pattern":  "(?i)\\bDarKirito\\b",
+    "description":  "Matches \"DarKirito\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

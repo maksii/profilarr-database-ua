@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Gelena_Tkaczenko",
+    "pattern":  "(?i)\\bGelena_Tkaczenko\\b",
+    "description":  "Matches \"Gelena_Tkaczenko\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "asoluter",
+    "pattern":  "(?i)\\basoluter\\b",
+    "description":  "Matches \"asoluter\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

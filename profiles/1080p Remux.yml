@@ -90,8 +90,22 @@ custom_formats:
   score: 20000
 - name: SD Quality Tier 1
   score: 11000
+- name: UA - UA Anime Tier 1
+  score: 10002
+- name: UA - UA Anime Tier 2
+  score: 10001
 - name: SD Quality Tier 2
   score: 10000
+- name: UA - UA Tier 1
+  score: 10000
+- name: UA - Ukrainian Language Spec
+  score: 10000
+- name: UA - Ukrainian Language Subs
+  score: 10000
+- name: UA - Ukrainian Language Title
+  score: 10000
+- name: UA - UA Tier 3
+  score: 9800
 - name: AMZN
   score: 3000
 - name: Dolby Vision
@@ -237,6 +251,8 @@ custom_formats_radarr:
   score: 100000
 - name: 720p Balanced Tier 1
   score: 60000
+- name: UA - UA Tier 2
+  score: 9900
 - name: MA
   score: 4000
 - name: Better Theatricals
@@ -256,6 +272,8 @@ custom_formats_radarr:
 - name: Upscale
   score: -999999
 custom_formats_sonarr:
+- name: UA - UA Tier 2
+  score: 9800
 - name: Season Pack
   score: 10
 - name: TV Extras
@@ -303,4 +321,4 @@ upgrade_until:
   name: 1080p Remux
   description: All capable of being indistinguishable from source. WEB-DL included
     to not allow unknown encode to trump known WEB-DL.
-language: must_original
+language: any

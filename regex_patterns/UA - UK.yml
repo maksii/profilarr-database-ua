@@ -1,0 +1,7 @@
+name: UA - UK
+pattern: (?i)\[(?!\s*Subs)[^]]*\b(UK)\b[^]]*\]
+description: ''
+tags:
+- Ukrainian
+- Language
+tests: []

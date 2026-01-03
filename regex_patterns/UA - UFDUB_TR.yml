@@ -1,0 +1,13 @@
+﻿{
+    "name":  "UFDUB_TR",
+    "pattern":  "(?i)\\bUFDUB_TR\\b",
+    "description":  "Matches \"UFDUB_TR\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

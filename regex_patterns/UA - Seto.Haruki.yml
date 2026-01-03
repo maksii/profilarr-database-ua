@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Seto.Haruki",
+    "pattern":  "(?i)\\bSeto\\.Haruki\\b",
+    "description":  "Matches \"Seto.Haruki\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

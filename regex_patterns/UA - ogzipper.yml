@@ -1,0 +1,13 @@
+﻿{
+    "name":  "ogzipper",
+    "pattern":  "(?i)\\bogzipper\\b",
+    "description":  "Matches \"ogzipper\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

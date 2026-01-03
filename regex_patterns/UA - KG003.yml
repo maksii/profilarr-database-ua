@@ -1,0 +1,13 @@
+﻿{
+    "name":  "KG003",
+    "pattern":  "(?i)\\bKG003\\b",
+    "description":  "Matches \"KG003\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

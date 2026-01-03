@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Печенюшка",
+    "pattern":  "(?i)\\bПеченюшка\\b",
+    "description":  "Matches \"Печенюшка\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "gig_Panas",
+    "pattern":  "(?i)\\bgig_Panas\\b",
+    "description":  "Matches \"gig_Panas\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Bamboo Anime",
+    "pattern":  "(?i)\\bBamboo Anime\\b",
+    "description":  "Matches \"Bamboo Anime\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

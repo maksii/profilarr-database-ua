@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Did Kokos",
+    "pattern":  "(?i)\\bDid Kokos\\b",
+    "description":  "Matches \"Did Kokos\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Quam Рroject",
+    "pattern":  "(?i)\\bQuam Рroject\\b",
+    "description":  "Matches \"Quam Рroject\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "VMDub",
+    "pattern":  "(?i)\\bVMDub\\b",
+    "description":  "Matches \"VMDub\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

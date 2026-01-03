@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Ryanha Son",
+    "pattern":  "(?i)\\bRyanha Son\\b",
+    "description":  "Matches \"Ryanha Son\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

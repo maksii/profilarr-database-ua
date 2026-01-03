@@ -1,0 +1,13 @@
+﻿{
+    "name":  "MontyCan",
+    "pattern":  "(?i)\\bMontyCan\\b",
+    "description":  "Matches \"MontyCan\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

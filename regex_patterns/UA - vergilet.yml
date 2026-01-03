@@ -1,0 +1,13 @@
+﻿{
+    "name":  "vergilet",
+    "pattern":  "(?i)\\bvergilet\\b",
+    "description":  "Matches \"vergilet\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

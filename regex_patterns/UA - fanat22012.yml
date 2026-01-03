@@ -1,0 +1,13 @@
+﻿{
+    "name":  "fanat22012",
+    "pattern":  "(?i)\\bfanat22012\\b",
+    "description":  "Matches \"fanat22012\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

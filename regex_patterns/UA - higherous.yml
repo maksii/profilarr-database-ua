@@ -1,0 +1,13 @@
+﻿{
+    "name":  "higherous",
+    "pattern":  "(?i)\\bhigherous\\b",
+    "description":  "Matches \"higherous\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

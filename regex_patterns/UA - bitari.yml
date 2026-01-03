@@ -1,0 +1,13 @@
+﻿{
+    "name":  "bitari",
+    "pattern":  "(?i)\\bbitari\\b",
+    "description":  "Matches \"bitari\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

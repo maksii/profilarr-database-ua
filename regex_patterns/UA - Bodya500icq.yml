@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Bodya500icq",
+    "pattern":  "(?i)\\bBodya500icq\\b",
+    "description":  "Matches \"Bodya500icq\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

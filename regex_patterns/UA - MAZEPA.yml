@@ -1,0 +1,13 @@
+﻿{
+    "name":  "MAZEPA",
+    "pattern":  "(?i)\\bMAZEPA\\b",
+    "description":  "Matches \"MAZEPA\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

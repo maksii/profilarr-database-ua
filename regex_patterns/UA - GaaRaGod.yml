@@ -1,0 +1,13 @@
+﻿{
+    "name":  "GaaRaGod",
+    "pattern":  "(?i)\\bGaaRaGod\\b",
+    "description":  "Matches \"GaaRaGod\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

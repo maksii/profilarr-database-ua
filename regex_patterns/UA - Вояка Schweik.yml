@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Вояка Schweik",
+    "pattern":  "(?i)\\bВояка Schweik\\b",
+    "description":  "Matches \"Вояка Schweik\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

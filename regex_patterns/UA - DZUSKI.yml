@@ -1,0 +1,13 @@
+﻿{
+    "name":  "DZUSKI",
+    "pattern":  "(?i)\\bDZUSKI\\b",
+    "description":  "Matches \"DZUSKI\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Shugu",
+    "pattern":  "(?i)\\bShugu\\b",
+    "description":  "Matches \"Shugu\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "VHS_Record",
+    "pattern":  "(?i)\\bVHS_Record\\b",
+    "description":  "Matches \"VHS_Record\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "zeroniua",
+    "pattern":  "(?i)\\bzeroniua\\b",
+    "description":  "Matches \"zeroniua\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

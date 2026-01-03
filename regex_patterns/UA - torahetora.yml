@@ -1,0 +1,13 @@
+﻿{
+    "name":  "torahetora",
+    "pattern":  "(?i)\\btorahetora\\b",
+    "description":  "Matches \"torahetora\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Subs"
+             ],
+    "tests":  [
+
+              ]
+}

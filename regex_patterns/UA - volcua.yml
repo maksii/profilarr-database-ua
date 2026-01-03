@@ -1,0 +1,13 @@
+﻿{
+    "name":  "volcua",
+    "pattern":  "(?i)\\bvolcua\\b",
+    "description":  "Matches \"volcua\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

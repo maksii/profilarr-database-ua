@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Didko Studio",
+    "pattern":  "(?i)\\bDidko Studio\\b",
+    "description":  "Matches \"Didko Studio\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

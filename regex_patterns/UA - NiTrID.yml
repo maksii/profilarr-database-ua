@@ -1,0 +1,13 @@
+﻿{
+    "name":  "NiTrID",
+    "pattern":  "(?i)\\bNiTrID\\b",
+    "description":  "Matches \"NiTrID\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Konstantin_Exorcist",
+    "pattern":  "(?i)\\bKonstantin_Exorcist\\b",
+    "description":  "Matches \"Konstantin_Exorcist\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

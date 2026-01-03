@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Ipod9481",
+    "pattern":  "(?i)\\bIpod9481\\b",
+    "description":  "Matches \"Ipod9481\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

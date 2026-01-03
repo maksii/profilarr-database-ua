@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Leben",
+    "pattern":  "(?i)\\bLeben\\b",
+    "description":  "Matches \"Leben\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

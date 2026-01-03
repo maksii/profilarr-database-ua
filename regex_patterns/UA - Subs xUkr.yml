@@ -1,0 +1,8 @@
+name: UA - Subs xUkr
+pattern: (?i)\bsub\s+(\d+)\s*x\s*ukr\b
+description: ''
+tags:
+- Subtitles
+- Ukrainian
+- Language
+tests: []

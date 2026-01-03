@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Rysalka7777",
+    "pattern":  "(?i)\\bRysalka7777\\b",
+    "description":  "Matches \"Rysalka7777\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

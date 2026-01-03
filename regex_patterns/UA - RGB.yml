@@ -1,0 +1,13 @@
+﻿{
+    "name":  "RGB",
+    "pattern":  "(?i)\\bRGB\\b",
+    "description":  "Matches \"RGB\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

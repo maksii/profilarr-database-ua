@@ -1,0 +1,169 @@
+name: UA - Ukrainian Language Title
+description: ''
+tags:
+- Ukrainian
+- Language
+conditions:
+- name: UK
+  negate: false
+  pattern: UA - UK
+  required: false
+  type: release_title
+- name: UKR tag
+  negate: false
+  pattern: UA - UKR tag
+  required: false
+  type: release_title
+- name: UA - [Ukrainian] tag
+  negate: false
+  pattern: UA - [Ukrainian] tag
+  required: false
+  type: release_title
+tests:
+- conditionResults:
+  - matches: false
+    name: UK
+    negate: false
+    pattern: UA - UK
+    required: false
+    type: release_title
+  - matches: true
+    name: UKR tag
+    negate: false
+    pattern: UA - UKR tag
+    required: false
+    type: release_title
+  - matches: false
+    name: UA - [Ukrainian] tag
+    negate: false
+    pattern: UA - [Ukrainian] tag
+    required: false
+    type: release_title
+  expected: true
+  id: 1
+  input: Jigoku Sensei Nube (Season 1) (2025) WEBRip Ai Rem 1080p H.265 Ukr/Jap |
+    Sub Ukr
+  lastRun: '2026-01-03T10:28:58.327880'
+  passes: true
+- conditionResults:
+  - matches: false
+    name: UK
+    negate: false
+    pattern: UA - UK
+    required: false
+    type: release_title
+  - matches: true
+    name: UKR tag
+    negate: false
+    pattern: UA - UKR tag
+    required: false
+    type: release_title
+  - matches: false
+    name: UA - [Ukrainian] tag
+    negate: false
+    pattern: UA - [Ukrainian] tag
+    required: false
+    type: release_title
+  expected: true
+  id: 2
+  input: 'Evangelion: 1.11 You Are (Not) Alone (2007) BDRip 720p H.265 60fps 2xUkr/Jap
+    | Sub'
+  lastRun: '2026-01-03T10:28:58.327880'
+  passes: true
+- conditionResults:
+  - matches: false
+    name: UK
+    negate: false
+    pattern: UA - UK
+    required: false
+    type: release_title
+  - matches: true
+    name: UKR tag
+    negate: false
+    pattern: UA - UKR tag
+    required: false
+    type: release_title
+  - matches: false
+    name: UA - [Ukrainian] tag
+    negate: false
+    pattern: UA - [Ukrainian] tag
+    required: false
+    type: release_title
+  expected: true
+  id: 3
+  input: Ore dake Level Up na Ken (Solo Leveling) (Season 1) (2024) BDRip 1080p H.265
+    12xUkr/Jap | sub 4xUkr/Eng/Jap
+  lastRun: '2026-01-03T10:28:58.327880'
+  passes: true
+- conditionResults:
+  - matches: false
+    name: UK
+    negate: false
+    pattern: UA - UK
+    required: false
+    type: release_title
+  - matches: false
+    name: UKR tag
+    negate: false
+    pattern: UA - UKR tag
+    required: false
+    type: release_title
+  - matches: false
+    name: UA - [Ukrainian] tag
+    negate: false
+    pattern: UA - [Ukrainian] tag
+    required: false
+    type: release_title
+  expected: false
+  id: 4
+  input: Under Ninja (2023) WEBDLRip 1080p H.264 Jap | sub Ukr
+  lastRun: '2026-01-03T10:28:58.327880'
+  passes: false
+- conditionResults:
+  - matches: false
+    name: UK
+    negate: false
+    pattern: UA - UK
+    required: false
+    type: release_title
+  - matches: true
+    name: UKR tag
+    negate: false
+    pattern: UA - UKR tag
+    required: false
+    type: release_title
+  - matches: true
+    name: UA - [Ukrainian] tag
+    negate: false
+    pattern: UA - [Ukrainian] tag
+    required: false
+    type: release_title
+  expected: true
+  id: 5
+  input: Jigoku Sensei Nube (Season 1) (2025) WEBRip Ai Rem 1080p H.265 [Ukrainian]
+  lastRun: '2026-01-03T10:28:58.327880'
+  passes: true
+- conditionResults:
+  - matches: true
+    name: UK
+    negate: false
+    pattern: UA - UK
+    required: false
+    type: release_title
+  - matches: false
+    name: UKR tag
+    negate: false
+    pattern: UA - UKR tag
+    required: false
+    type: release_title
+  - matches: false
+    name: UA - [Ukrainian] tag
+    negate: false
+    pattern: UA - [Ukrainian] tag
+    required: false
+    type: release_title
+  expected: true
+  id: 6
+  input: Jigoku Sensei Nube (Season 1) (2025) WEBRip Ai Rem 1080p H.265 [UK]
+  lastRun: '2026-01-03T10:28:58.327880'
+  passes: true

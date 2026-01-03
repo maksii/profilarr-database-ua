@@ -1,0 +1,13 @@
+﻿{
+    "name":  "kremel",
+    "pattern":  "(?i)\\bkremel\\b",
+    "description":  "Matches \"kremel\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

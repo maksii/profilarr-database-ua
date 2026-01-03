@@ -1,0 +1,38 @@
+﻿name: UA - UA Tier 1
+description: Matches release groups who fall under UA Tier 1
+tags:
+- Release Group Tier
+- Ukrainian
+- UA Tier 1
+conditions:
+- name: Blackflexxy
+  negate: false
+  pattern: Blackflexxy
+  required: false
+  type: release_group
+- name: BLXY
+  negate: false
+  pattern: BLXY
+  required: false
+  type: release_group
+- name: deadkiller
+  negate: false
+  pattern: deadkiller
+  required: false
+  type: release_group
+- name: dK
+  negate: false
+  pattern: dK
+  required: false
+  type: release_group
+- name: MakRa
+  negate: false
+  pattern: MakRa
+  required: false
+  type: release_group
+- name: TaurohtaR
+  negate: false
+  pattern: TaurohtaR
+  required: false
+  type: release_group
+tests: []

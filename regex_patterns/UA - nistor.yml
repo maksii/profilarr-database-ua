@@ -1,0 +1,13 @@
+﻿{
+    "name":  "nistor",
+    "pattern":  "(?i)\\bnistor\\b",
+    "description":  "Matches \"nistor\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

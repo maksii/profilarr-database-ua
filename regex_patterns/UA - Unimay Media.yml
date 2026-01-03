@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Unimay Media",
+    "pattern":  "(?i)\\bUnimay Media\\b",
+    "description":  "Matches \"Unimay Media\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

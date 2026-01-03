@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Twidunbr",
+    "pattern":  "(?i)\\bTwidunbr\\b",
+    "description":  "Matches \"Twidunbr\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

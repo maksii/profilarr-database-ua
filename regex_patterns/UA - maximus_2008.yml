@@ -1,0 +1,13 @@
+﻿{
+    "name":  "maximus_2008",
+    "pattern":  "(?i)\\bmaximus_2008\\b",
+    "description":  "Matches \"maximus_2008\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

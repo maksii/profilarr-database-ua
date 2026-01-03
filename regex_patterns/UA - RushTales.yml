@@ -1,0 +1,13 @@
+﻿{
+    "name":  "RushTales",
+    "pattern":  "(?i)\\bRushTales\\b",
+    "description":  "Matches \"RushTales\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

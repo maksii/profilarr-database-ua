@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Ash_Ketchup",
+    "pattern":  "(?i)\\bAsh_Ketchup\\b",
+    "description":  "Matches \"Ash_Ketchup\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Premer_Joker",
+    "pattern":  "(?i)\\bPremer_Joker\\b",
+    "description":  "Matches \"Premer_Joker\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

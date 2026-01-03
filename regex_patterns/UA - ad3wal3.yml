@@ -1,0 +1,13 @@
+﻿{
+    "name":  "ad3wal3",
+    "pattern":  "(?i)\\bad3wal3\\b",
+    "description":  "Matches \"ad3wal3\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

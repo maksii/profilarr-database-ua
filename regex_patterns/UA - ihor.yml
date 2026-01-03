@@ -1,0 +1,13 @@
+﻿{
+    "name":  "ihor",
+    "pattern":  "(?i)\\bihor\\b",
+    "description":  "Matches \"ihor\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

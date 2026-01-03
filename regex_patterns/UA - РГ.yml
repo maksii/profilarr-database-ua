@@ -1,0 +1,13 @@
+﻿{
+    "name":  "РГ",
+    "pattern":  "(?i)\\bРГ\\b",
+    "description":  "Matches \"РГ\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "CrazyNinja",
+    "pattern":  "(?i)\\bCrazyNinja\\b",
+    "description":  "Matches \"CrazyNinja\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

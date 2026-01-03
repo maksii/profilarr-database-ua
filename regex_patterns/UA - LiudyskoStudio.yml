@@ -1,0 +1,13 @@
+﻿{
+    "name":  "LiudyskoStudio",
+    "pattern":  "(?i)\\bLiudyskoStudio\\b",
+    "description":  "Matches \"LiudyskoStudio\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

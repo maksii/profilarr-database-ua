@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Marco Polo",
+    "pattern":  "(?i)\\bMarco Polo\\b",
+    "description":  "Matches \"Marco Polo\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

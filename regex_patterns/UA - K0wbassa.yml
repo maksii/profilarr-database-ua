@@ -1,0 +1,13 @@
+﻿{
+    "name":  "K0wbassa",
+    "pattern":  "(?i)\\bK0wbassa\\b",
+    "description":  "Matches \"K0wbassa\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

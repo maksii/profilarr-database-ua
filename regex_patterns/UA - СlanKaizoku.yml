@@ -1,0 +1,13 @@
+﻿{
+    "name":  "СlanKaizoku",
+    "pattern":  "(?i)\\bСlanKaizoku\\b",
+    "description":  "Matches \"СlanKaizoku\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

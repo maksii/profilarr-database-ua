@@ -1,0 +1,13 @@
+﻿{
+    "name":  "maxwell_kennedy",
+    "pattern":  "(?i)\\bmaxwell_kennedy\\b",
+    "description":  "Matches \"maxwell_kennedy\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

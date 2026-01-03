@@ -1,0 +1,13 @@
+﻿{
+    "name":  "StolenKrown",
+    "pattern":  "(?i)\\bStolenKrown\\b",
+    "description":  "Matches \"StolenKrown\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

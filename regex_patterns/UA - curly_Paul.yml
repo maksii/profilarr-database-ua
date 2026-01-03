@@ -1,0 +1,13 @@
+﻿{
+    "name":  "curly_Paul",
+    "pattern":  "(?i)\\bcurly_Paul\\b",
+    "description":  "Matches \"curly_Paul\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

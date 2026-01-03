@@ -1,0 +1,13 @@
+﻿{
+    "name":  "salvateur",
+    "pattern":  "(?i)\\bsalvateur\\b",
+    "description":  "Matches \"salvateur\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

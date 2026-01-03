@@ -1,0 +1,13 @@
+﻿{
+    "name":  "lysakoff",
+    "pattern":  "(?i)\\blysakoff\\b",
+    "description":  "Matches \"lysakoff\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "BaibaKo tv",
+    "pattern":  "(?i)\\bBaibaKo tv\\b",
+    "description":  "Matches \"BaibaKo tv\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

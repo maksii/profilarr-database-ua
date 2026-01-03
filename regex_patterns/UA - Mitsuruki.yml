@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Mitsuruki",
+    "pattern":  "(?i)\\bMitsuruki\\b",
+    "description":  "Matches \"Mitsuruki\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "name":  "panteliymas",
+    "pattern":  "(?i)\\bpanteliymas\\b",
+    "description":  "Matches \"panteliymas\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

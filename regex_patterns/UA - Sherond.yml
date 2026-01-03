@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Sherond",
+    "pattern":  "(?i)\\bSherond\\b",
+    "description":  "Matches \"Sherond\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

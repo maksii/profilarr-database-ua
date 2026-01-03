@@ -1,0 +1,13 @@
+﻿{
+    "name":  "_kr3k9n_",
+    "pattern":  "(?i)\\b_kr3k9n_\\b",
+    "description":  "Matches \"_kr3k9n_\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

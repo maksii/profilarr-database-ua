@@ -1,0 +1,13 @@
+﻿{
+    "name":  "Aishin",
+    "pattern":  "(?i)\\bAishin\\b",
+    "description":  "Matches \"Aishin\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

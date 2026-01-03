@@ -1,0 +1,13 @@
+﻿{
+    "name":  "VadRom",
+    "pattern":  "(?i)\\bVadRom\\b",
+    "description":  "Matches \"VadRom\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Anime Tier 2"
+             ],
+    "tests":  [
+
+              ]
+}

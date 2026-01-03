@@ -1,0 +1,13 @@
+﻿{
+    "name":  "ПаніІрина",
+    "pattern":  "(?i)\\bПаніІрина\\b",
+    "description":  "Matches \"ПаніІрина\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}

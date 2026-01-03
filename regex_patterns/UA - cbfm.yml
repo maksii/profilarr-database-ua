@@ -1,0 +1,13 @@
+﻿{
+    "name":  "cbfm",
+    "pattern":  "(?i)\\bcbfm\\b",
+    "description":  "Matches \"cbfm\" using regex pattern.",
+    "tags":  [
+                 "Release Group",
+                 "Ukrainian",
+                 "UA Tier 3"
+             ],
+    "tests":  [
+
+              ]
+}
